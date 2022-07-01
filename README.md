@@ -1,4 +1,5 @@
-#### Website built using Tailwind
+## Website built using Tailwind
+### Visit the website: https://tailwind-portfoliio.netlify.app
 
-![screencapture-chimerical-kangaroo-e603c0-netlify-app-2022-07-01-14_47_03](https://user-images.githubusercontent.com/70688937/176865520-64ab1f53-a750-4d42-9fee-12bbfcdeda3a.png)
+![screencapture-tailwind-portfoliio-netlify-app-2022-07-01-14_50_01](https://user-images.githubusercontent.com/70688937/176866071-64b2ba54-d833-45fc-8b2e-2ac3e47ef4d3.png)
 
